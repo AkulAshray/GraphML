@@ -5,13 +5,15 @@ I have published two articles so far- need to make changes to the first blog pos
 
 **Centrality in Graph Theory**- basic introduction to the concept of centrality in Graph Theoretic models
 
-Published on 16th Feb - 
-
-https://medium.com/@asharayshetty/centrality-in-graph-theory-d57863a8b683
+Published on 16th Feb - https://medium.com/@asharayshetty/centrality-in-graph-theory-d57863a8b683
 
 
 
-**Gentle Introduction To Networks And Graph Embeddings** - Published 23rd Feb - https://medium.com/@asharayshetty/gentle-introduction-to-networks-and-graph-embeddings-457e2d2b5002
+**Gentle Introduction To Networks And Graph Embeddings** - Basic Introduction to different graph analytic tasks and why embeddings are important
 
-**Where does Neuroscience and AI intersect** - Published 1st March-
-https://medium.com/@asharayshetty/where-does-ai-and-neuroscience-intersect-6bbe6da9a41f
+Published 23rd Feb - https://medium.com/@asharayshetty/gentle-introduction-to-networks-and-graph-embeddings-457e2d2b5002
+
+**Where does Neuroscience and AI intersect** - opinion post on how reinforcement learning is similar to neuroscience
+
+
+Published 1st March - https://medium.com/@asharayshetty/where-does-ai-and-neuroscience-intersect-6bbe6da9a41f

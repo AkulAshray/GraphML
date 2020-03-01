@@ -7,3 +7,5 @@ I have published two articles so far- need to make changes to the first blog pos
 
 **Gentle Introduction To Networks And Graph Embeddings** - Published 23rd Feb - https://medium.com/@asharayshetty/gentle-introduction-to-networks-and-graph-embeddings-457e2d2b5002
 
+**Where does Neuroscience and AI intersect** - Published 1st March-
+https://medium.com/@asharayshetty/where-does-ai-and-neuroscience-intersect-6bbe6da9a41f

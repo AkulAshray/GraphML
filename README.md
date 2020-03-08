@@ -9,3 +9,5 @@ I have published two articles so far- need to make changes to the first blog pos
 
 **Where does Neuroscience and AI intersect** - Published 1st March-
 https://medium.com/@asharayshetty/where-does-ai-and-neuroscience-intersect-6bbe6da9a41f
+
+**The significance of knowledge graph** - Published 7th March-

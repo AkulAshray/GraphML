@@ -13,3 +13,5 @@ https://medium.com/@asharayshetty/where-does-ai-and-neuroscience-intersect-6bbe6
 **The significance of knowledge graph** - Published 7th March-
 
 Data Analytic Life Cycle presentation for interview with Whitehat
+
+https://medium.com/@asharayshetty/data-science-skills-that-can-be-used-by-people-from-the-humanities-435b307591b

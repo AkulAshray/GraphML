@@ -14,4 +14,4 @@ https://medium.com/@asharayshetty/where-does-ai-and-neuroscience-intersect-6bbe6
 
 Data Analytic Life Cycle presentation for interview with Whitehat
 
-https://medium.com/@asharayshetty/data-science-skills-that-can-be-used-by-people-from-the-humanities-435b307591b
+**Data Science Skills That Can Be Used By People From The Humanities** https://medium.com/@asharayshetty/data-science-skills-that-can-be-used-by-people-from-the-humanities-435b307591b
